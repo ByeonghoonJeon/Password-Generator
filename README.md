@@ -18,6 +18,6 @@ If user's input corresponds as I intended, the number is set as total digit and 
 Since limit of total digitis already determined at the first input, sum of alphabets and numbers are needed to be contained within the total digit.
 After inputting lenth of numbers, if there are still available digit, the rest of digits are automatically assigned to symbols. 
 
-By checking all the input from user, remove all the potential errors and gives reliable result.
+By checking all the input from user, remove all the potential errors and gives reliable results.
 
 
